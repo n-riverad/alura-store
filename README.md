@@ -14,7 +14,7 @@ El análisis fue desarrollado dentro del contexto de un curso de Alura Latam par
 
 ## Ejemplos de gráficos e insights
 
-Durante el análisis se generaron múltiples visualizaciones con seaborn y matplotlib, tales como:
+Durante el análisis se generaron múltiples visualizaciones con matplotlib, tales como:
 
 - Gráfico de barras de los productos más vendidos
 - Series de tiempo del total de ventas por mes
